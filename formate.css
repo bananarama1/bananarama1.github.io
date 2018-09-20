@@ -1,5 +1,13 @@
-body{background-color: blue;font-family: arial}
+body{
+  background-color: silver;
+  background-image: url(img/letter.jpg);
+  background-size:cover;
+  background-repeat: no-repeat;
+}
 
-p{font-size: 1.5em;text-align: justify;}
-h1{font-size: 2em; background-color: blue; text-align: center; }
-li{font-size: 1.7em}
+body{
+  font-size: 1.2em;
+  font-family: sans-serif;
+}
+
+.farbe1{color: red;}
